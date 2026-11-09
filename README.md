@@ -1,6 +1,6 @@
 # Penetration Testing Report — shubham-tech.in & Local Network
 
-Week 2 internship submission — Cybersecurity program (B082-Networkwalks)
+Week 2 internship submission — Cybersecurity program (B084-Networkwalks)
 
 ## Folder structure
 
